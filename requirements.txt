@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytesseract
+Pillow
+python-Levenshtein
+httpx
+python-multipart
